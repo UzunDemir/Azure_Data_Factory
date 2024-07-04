@@ -71,6 +71,8 @@ Azure Data Factory — это облачная служба интеграции
 
 ## Как работает Azure Data Factory
 
+Создание [пайплайна](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/10-Synpase-pipeline.html)
+
 ![image](https://github.com/UzunDemir/Azure_Data_Factory/assets/94790150/4dbee6c8-769a-4fbe-a5f6-610a3890814b)
 
 
